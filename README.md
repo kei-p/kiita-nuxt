@@ -1,6 +1,6 @@
 # kiita
 
-> My astonishing Nuxt.js project
+> My cool Nuxt.js project
 
 ## Build Setup
 
